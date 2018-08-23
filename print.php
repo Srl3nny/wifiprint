@@ -1,4 +1,9 @@
 <?php
+//*****************************************************************
+// Atenção
+// Alterar a variável $imp de acordo com as impressoras instaladas
+//***************************************************************
+
 include("valida.php");
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);

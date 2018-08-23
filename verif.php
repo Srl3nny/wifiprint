@@ -1,4 +1,9 @@
 <?php
+// ******************************************************************
+//  ATENÇÃO 
+//Variáveis que são necessárias configurar de acordo com o seu ambiente
+// $ldaphost   $ldapport   $dominio   $ip_server  
+//********************************************************************
 //ini_set('display_errors', 1);
 //ini_set('display_startup_errors', 1);
 //error_reporting(E_ALL);
